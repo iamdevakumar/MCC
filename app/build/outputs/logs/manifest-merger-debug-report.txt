@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\257fe2b41e361e2494cf364c6a53e9cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a86da2f657e0b1a184c0c7f7737efb72\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\961ed546b4c10f1123e1ebf80f121c1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\909af5566fb346a3a9ca272b46af7564\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\130d86e2b603fea2f80b3f88f915bd32\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\ac79360bdaed57a5e476f01fa267ebe5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\cc55a8f522d931e73bb85e4b392831c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\a1be6ecd9a2f7def59280db6e97c2af6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\082b3fa77365dcc92ca8ec6fb2d0cce7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\5fc9b14b695b93c3326d581b7f0b1e61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\4a6a78d1f4fe42421d5aba18a61eba0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\14e0d5c7f12392ea82505e6778b899f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\0ce3b736eb6532f33f5e6f5a3ae0b9f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\ba08d6e30c72cf57ad82a221acf05167\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\330324b2f0d62839f80ca11529e0dbaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\1fb13a26657ff06179940de98aed0e55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\e4f25dadd91e85fae86f9b22ffd7e5d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\137ffbab17401fb81b34405b0ceb2fdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\6d7e7fefdc530d64e193778172d9dea8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\a5e07780eff3000adac57a11db0ba064\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\8c9cb2e6661471bb4873dabf192d7f63\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3e1bb8136b0fa3f367c38c0f85be9178\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\ed3a70481f5e9b1f6e3216323cb96f6d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\73acc8a3bc53a582d509d5e90a6db6ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\7e85a1bac545f2ebfbce9df724bb35ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\29b5c15ad7159fb997521daebed8b1be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\239bf5861849fa36e4319f8aeddb406d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\0ce38d7b931ebfb2b6178fa0ce8a7058\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d161fbd4b8b32bb35705f7ead93a9fe1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f7efca971bd8a819af902a85c0c046a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.read_contacts
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.read_phone_state
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:15:22-71
+uses-feature#android.hardware.camera
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:17:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:19:22-62
+application
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:21:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a86da2f657e0b1a184c0c7f7737efb72\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a86da2f657e0b1a184c0c7f7737efb72\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\a5e07780eff3000adac57a11db0ba064\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\a5e07780eff3000adac57a11db0ba064\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\ed3a70481f5e9b1f6e3216323cb96f6d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\ed3a70481f5e9b1f6e3216323cb96f6d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\a5e07780eff3000adac57a11db0ba064\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.app.mycinemachance.Activity.Splash
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:theme
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:29:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.app.mycinemachance.Activity.Home
+ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:37:9-39:68
+	android:label
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml:38:13-42
+uses-sdk
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\257fe2b41e361e2494cf364c6a53e9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\257fe2b41e361e2494cf364c6a53e9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a86da2f657e0b1a184c0c7f7737efb72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a86da2f657e0b1a184c0c7f7737efb72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\961ed546b4c10f1123e1ebf80f121c1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\961ed546b4c10f1123e1ebf80f121c1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\909af5566fb346a3a9ca272b46af7564\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\909af5566fb346a3a9ca272b46af7564\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\130d86e2b603fea2f80b3f88f915bd32\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\130d86e2b603fea2f80b3f88f915bd32\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\ac79360bdaed57a5e476f01fa267ebe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\ac79360bdaed57a5e476f01fa267ebe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\cc55a8f522d931e73bb85e4b392831c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\cc55a8f522d931e73bb85e4b392831c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\a1be6ecd9a2f7def59280db6e97c2af6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\a1be6ecd9a2f7def59280db6e97c2af6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\082b3fa77365dcc92ca8ec6fb2d0cce7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\082b3fa77365dcc92ca8ec6fb2d0cce7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\5fc9b14b695b93c3326d581b7f0b1e61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\5fc9b14b695b93c3326d581b7f0b1e61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\4a6a78d1f4fe42421d5aba18a61eba0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\4a6a78d1f4fe42421d5aba18a61eba0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\14e0d5c7f12392ea82505e6778b899f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\14e0d5c7f12392ea82505e6778b899f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\0ce3b736eb6532f33f5e6f5a3ae0b9f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\0ce3b736eb6532f33f5e6f5a3ae0b9f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\ba08d6e30c72cf57ad82a221acf05167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\ba08d6e30c72cf57ad82a221acf05167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\330324b2f0d62839f80ca11529e0dbaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\330324b2f0d62839f80ca11529e0dbaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\1fb13a26657ff06179940de98aed0e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\1fb13a26657ff06179940de98aed0e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\e4f25dadd91e85fae86f9b22ffd7e5d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\e4f25dadd91e85fae86f9b22ffd7e5d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\137ffbab17401fb81b34405b0ceb2fdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\137ffbab17401fb81b34405b0ceb2fdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\6d7e7fefdc530d64e193778172d9dea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\6d7e7fefdc530d64e193778172d9dea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\a5e07780eff3000adac57a11db0ba064\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\a5e07780eff3000adac57a11db0ba064\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\8c9cb2e6661471bb4873dabf192d7f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\8c9cb2e6661471bb4873dabf192d7f63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3e1bb8136b0fa3f367c38c0f85be9178\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3e1bb8136b0fa3f367c38c0f85be9178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\ed3a70481f5e9b1f6e3216323cb96f6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\ed3a70481f5e9b1f6e3216323cb96f6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\73acc8a3bc53a582d509d5e90a6db6ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\73acc8a3bc53a582d509d5e90a6db6ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\7e85a1bac545f2ebfbce9df724bb35ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\7e85a1bac545f2ebfbce9df724bb35ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\29b5c15ad7159fb997521daebed8b1be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\29b5c15ad7159fb997521daebed8b1be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\239bf5861849fa36e4319f8aeddb406d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\239bf5861849fa36e4319f8aeddb406d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\0ce38d7b931ebfb2b6178fa0ce8a7058\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\0ce38d7b931ebfb2b6178fa0ce8a7058\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d161fbd4b8b32bb35705f7ead93a9fe1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d161fbd4b8b32bb35705f7ead93a9fe1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f7efca971bd8a819af902a85c0c046a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Devakumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f7efca971bd8a819af902a85c0c046a\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Backup\StarAutoAssist\Source\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\MCC\app\src\main\AndroidManifest.xml

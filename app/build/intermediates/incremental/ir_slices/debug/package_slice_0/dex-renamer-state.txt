@@ -1,0 +1,4 @@
+#Wed Jul 25 15:53:18 IST 2018
+base.0=D\:\\Android\\Backup\\StarAutoAssist\\Source\\iPay88 Android SDK v1.0.6.3 - Sample Project 20180516\\MCC\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
